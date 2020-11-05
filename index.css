@@ -52,3 +52,12 @@ h1 {
   font-family: 'Passion One', cursive;
   color: #FFB500
 }
+
+/* ul, li {
+  margin: 0; padding: 0;
+} */
+
+ul { 
+	/* display: inline-block;  */
+	text-align: left; 
+	}
