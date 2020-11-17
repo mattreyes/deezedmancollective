@@ -60,4 +60,10 @@ h1 {
 ul { 
 	/* display: inline-block;  */
 	text-align: left; 
-	}
+}
+
+iframe {
+    display: block;
+    border-style:none;
+    margin: 0 auto;
+}
